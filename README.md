@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samirsenapati
 - 👀 I’m interested in technical writing.
 - 🌱 I’m currently learning github.
-- 💞️ I’m looking to collaborate on documentation.
 - 📫 You can reach me on +91 8880891123.
 
 <!---
